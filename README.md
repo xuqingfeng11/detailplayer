@@ -2,7 +2,7 @@
 
 > 音乐播放器
 >
-> [gitHub地址](https://github.com/qidaizxc/music-player)
+> [gitHub地址](https://github.com/xuqingfeng11/detailplayer)
 
 ## Build Setup
 
